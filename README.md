@@ -1,3 +1,3 @@
 ## 🔗 Links
-- Frontend Repo: [frontend GitHub link]
+- Frontend Repo: https://github.com/Extrakunal/job-tracker-frontend
 - Deployed on Railway
